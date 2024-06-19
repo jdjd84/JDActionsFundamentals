@@ -24,7 +24,7 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 
 - [X] Introduction and Icebreaker
 - [X] GitHub Actions Fundamentals
-- [ ] The YAML syntax
+- [X] The YAML syntax
 - [ ] Basic workflow syntax
 - [ ] Events that trigger workflow
 - [ ] Jobs and steps
